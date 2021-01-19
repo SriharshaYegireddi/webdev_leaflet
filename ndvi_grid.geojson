@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bare_Soil": 0, "unhealthy_veg": 691, "moderate": 503, "healthy_veg": 2544 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.887273, 52.571603 ], [ 4.898510333333333, 52.571603 ], [ 4.898510333333333, 52.576749 ], [ 4.887273, 52.576749 ], [ 4.887273, 52.571603 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 0, "unhealthy_veg": 285, "moderate": 419, "healthy_veg": 2945 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.887273, 52.576749 ], [ 4.898510333333333, 52.576749 ], [ 4.898510333333333, 52.581895 ], [ 4.887273, 52.581895 ], [ 4.887273, 52.576749 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 11, "unhealthy_veg": 408, "moderate": 1404, "healthy_veg": 1826 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.887273, 52.581895 ], [ 4.898510333333333, 52.581895 ], [ 4.898510333333333, 52.587041 ], [ 4.887273, 52.587041 ], [ 4.887273, 52.581895 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 11, "unhealthy_veg": 117, "moderate": 613, "healthy_veg": 2997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.898510333333333, 52.571603 ], [ 4.909747666666666, 52.571603 ], [ 4.909747666666666, 52.576749 ], [ 4.898510333333333, 52.576749 ], [ 4.898510333333333, 52.571603 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 6, "unhealthy_veg": 127, "moderate": 705, "healthy_veg": 2811 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.898510333333333, 52.576749 ], [ 4.909747666666666, 52.576749 ], [ 4.909747666666666, 52.581895 ], [ 4.898510333333333, 52.581895 ], [ 4.898510333333333, 52.576749 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 27, "unhealthy_veg": 171, "moderate": 1318, "healthy_veg": 2133 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.898510333333333, 52.581895 ], [ 4.909747666666666, 52.581895 ], [ 4.909747666666666, 52.587041 ], [ 4.898510333333333, 52.587041 ], [ 4.898510333333333, 52.581895 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 0, "unhealthy_veg": 193, "moderate": 383, "healthy_veg": 3162 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.909747666666667, 52.571603 ], [ 4.920985, 52.571603 ], [ 4.920985, 52.576749 ], [ 4.909747666666667, 52.576749 ], [ 4.909747666666667, 52.571603 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 0, "unhealthy_veg": 51, "moderate": 488, "healthy_veg": 3110 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.909747666666667, 52.576749 ], [ 4.920985, 52.576749 ], [ 4.920985, 52.581895 ], [ 4.909747666666667, 52.581895 ], [ 4.909747666666667, 52.576749 ] ] ] } },
+{ "type": "Feature", "properties": { "bare_Soil": 0, "unhealthy_veg": 506, "moderate": 1216, "healthy_veg": 1927 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.909747666666667, 52.581895 ], [ 4.920985, 52.581895 ], [ 4.920985, 52.587041 ], [ 4.909747666666667, 52.587041 ], [ 4.909747666666667, 52.581895 ] ] ] } }
+]
+}
